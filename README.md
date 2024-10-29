@@ -50,7 +50,7 @@ Puedes acceder al sitio web del congreso en: [INNOVED 2024](https://innoved2024.
 
 ## Estructura del Proyecto
 
-bash
+```bash
 ├── index.html                  # Página principal del sitio web
 ├── Css/                        # Carpeta de archivos CSS
 │   └── style.css               # Archivo principal de estilos
@@ -59,6 +59,7 @@ bash
 │   └── main.js                 # Script principal del sitio
 ├── Img/                        # Carpeta de imágenes
 └── README.md                   # Este archivo
+```
 
 ## Contribuciones
 
